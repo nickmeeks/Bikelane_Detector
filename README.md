@@ -1,6 +1,7 @@
 # Bikelane_Detector
 
 This repository contains data and notebooks used to detect objects that are blocking bike lanes, primarily vehicles. Below is a structure of the directory
+
 Ignore all Demo files (used to make the folders/branches)
 
 -- Method 1
