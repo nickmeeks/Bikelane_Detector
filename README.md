@@ -45,6 +45,13 @@ Ignore all Demo files (used to make the folders/branches)
      --- YOLOV8-Annotated.ipynb - Contains the code used for the third analysis (YOLOV8 model on all security camera footage)
 
 -- Method 2
-  ---
+  --- Bikelanes
+    --- blocked (folder of blocked images from previous method)
+    --- unblocked (folder of unblocked images from previous method)
+  --- NEW
+    --- BLOCKED_NEW (folder of blocked FPV images)
+    --- UNBLOCKED_NEW (folder of unblocked FPV images)
+  --- FPV.ipynb (python notebook that trains last method's model, tests that model on FPV data, and trains FPV model)
+  --- yolov8n.pt (yolo checkpoint for refined model)
   
 
