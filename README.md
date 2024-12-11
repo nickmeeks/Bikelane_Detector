@@ -4,7 +4,7 @@ This repository contains data and notebooks used to detect objects that are bloc
 
 Ignore all Demo files (used to make the folders/branches)
 
--- Method 1
+Method 1
 
   --- data 
   
@@ -44,7 +44,7 @@ Ignore all Demo files (used to make the folders/branches)
      
      --- YOLOV8-Annotated.ipynb - Contains the code used for the third analysis (YOLOV8 model on all security camera footage)
 
--- Method 2
+Method 2
 
   --- Bikelanes
   
