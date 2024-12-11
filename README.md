@@ -6,7 +6,35 @@ Ignore all Demo files (used to make the folders/branches)
 
 -- Method 1
 
-  --- data
+  --- data 
+  
+     --- data (Folder of data for single security camera footage)
+     
+       --- blocked2 (Folder of blocked bicycle lane images)
+       
+       --- notblocked2 (Folder of unblocked bicycle lane images)
+
+     --- data2 (Folder of data for all security camera footage)
+
+       --- blocked3 (Folder of blocked bicycle lane images)
+
+       --- notblocked3 (Folder of unblocked bicycle lange images)
+
+      --- data3 (Folder of data for YOLOv8 model on all security camera footage)
+
+        --- images (Images used in the YOLOv8 model
+
+          --- train (Images used in the training)
+
+          --- val (Images used in the validation)
+
+        --- labels (Labels corresponding to the bounds of vehicles blocking the bicycle lane within the images
+
+          --- train (Labels used in training)
+
+          --- val (Images used in the validation)
+      
+      
   
   --- notebooks - Contains all of the notebooks of code utilized in method 1 (Security Camera footage)
   
